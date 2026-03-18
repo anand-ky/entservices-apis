@@ -1,0 +1,18 @@
+[submodule "rdk-halif-aidl"]
+	path = rdk-halif-aidl
+	url = https://github.com/anand-ky/rdk-halif-aidl.git
+[submodule "entservices-deviceanddisplay"]
+	path = entservices-deviceanddisplay
+	url = https://github.com/anand-ky/entservices-deviceanddisplay.git
+[submodule "devicesettings"]
+	path = devicesettings
+	url = https://github.com/anand-ky/devicesettings.git
+[submodule "hdmicec"]
+	path = hdmicec
+	url = https://github.com/anand-ky/hdmicec.git
+[submodule "entservices-hdmicecsink"]
+	path = entservices-hdmicecsink
+	url = https://github.com/anand-ky/entservices-hdmicecsink.git
+[submodule "entservices-hdmicecsource"]
+	path = entservices-hdmicecsource
+	url = https://github.com/anand-ky/entservices-hdmicecsource.git
