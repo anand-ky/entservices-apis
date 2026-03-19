@@ -1,0 +1,3 @@
+```plaintext
+Entertainment services (a.k.a., Ent Services) APIs are a set of Interface definitions that allows RDK MW developers to build thunder plugins as services. The interface definitions are architected and designed in such a way that these services can provide apps to have access to various platform functionalities in the entertainment devices that are powered by RDK middleware. App developers who would like to make use of the underlying features in the entertainment devices MAY refer this documentation to write, test and deploy their apps in those devices that run RDK MW. Refer to README.md and governance.md for more details.
+```
